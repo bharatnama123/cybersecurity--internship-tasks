@@ -1,0 +1,10 @@
+# Nmap 7.95 scan initiated Mon Aug  4 15:00:33 2025 as: /usr/lib/nmap/nmap --privileged -sV -oN banner_scan.txt 192.168.130.2
+Nmap scan report for 192.168.130.2
+Host is up (0.00041s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE    SERVICE VERSION
+53/tcp filtered domain
+MAC Address: 00:50:56:F4:07:6A (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Aug  4 15:00:47 2025 -- 1 IP address (1 host up) scanned in 14.79 seconds
